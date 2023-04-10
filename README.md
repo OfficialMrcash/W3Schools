@@ -25,3 +25,6 @@ or
 
 1. Download Latest Release : [Release](https://github.com/officialmrcash/W3Schools/releases)
 2. Just run file `index.html`
+
+## CREDIT GOES TO 
+[ja7adr](https://github.com/ja7adr)
